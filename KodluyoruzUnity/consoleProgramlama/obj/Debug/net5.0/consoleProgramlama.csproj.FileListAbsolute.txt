@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\bin\Debug\net5.0\consoleProgramlama.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\bin\Debug\net5.0\consoleProgramlama.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\bin\Debug\net5.0\consoleProgramlama.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\bin\Debug\net5.0\consoleProgramlama.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\bin\Debug\net5.0\consoleProgramlama.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\bin\Debug\net5.0\ref\consoleProgramlama.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\bin\Debug\net5.0\consoleProgramlama.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\ref\consoleProgramlama.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\consoleProgramlama\obj\Debug\net5.0\consoleProgramlama.genruntimeconfig.cache
