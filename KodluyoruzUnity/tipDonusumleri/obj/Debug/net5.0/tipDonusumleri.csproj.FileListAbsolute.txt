@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\bin\Debug\net5.0\ref\tipDonusumleri.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\ref\tipDonusumleri.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.genruntimeconfig.cache
