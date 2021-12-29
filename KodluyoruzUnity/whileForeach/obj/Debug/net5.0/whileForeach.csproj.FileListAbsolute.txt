@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\bin\Debug\net5.0\whileForeach.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\bin\Debug\net5.0\whileForeach.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\bin\Debug\net5.0\whileForeach.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\bin\Debug\net5.0\whileForeach.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\bin\Debug\net5.0\whileForeach.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\bin\Debug\net5.0\ref\whileForeach.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\bin\Debug\net5.0\whileForeach.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\ref\whileForeach.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\whileForeach\obj\Debug\net5.0\whileForeach.genruntimeconfig.cache
