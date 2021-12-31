@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\bin\Debug\net5.0\genericList.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\bin\Debug\net5.0\genericList.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\bin\Debug\net5.0\genericList.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\bin\Debug\net5.0\genericList.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\bin\Debug\net5.0\genericList.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\bin\Debug\net5.0\ref\genericList.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\bin\Debug\net5.0\genericList.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\ref\genericList.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\genericList\obj\Debug\net5.0\genericList.genruntimeconfig.cache
