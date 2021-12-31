@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\bin\Debug\net5.0\datetimeAndMath.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\bin\Debug\net5.0\datetimeAndMath.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\bin\Debug\net5.0\datetimeAndMath.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\bin\Debug\net5.0\datetimeAndMath.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\bin\Debug\net5.0\datetimeAndMath.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\bin\Debug\net5.0\ref\datetimeAndMath.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\bin\Debug\net5.0\datetimeAndMath.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\ref\datetimeAndMath.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\datetimeAndMath\obj\Debug\net5.0\datetimeAndMath.genruntimeconfig.cache
