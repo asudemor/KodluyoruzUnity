@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\bin\Debug\net5.0\kurucuFonksiyonlar.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\bin\Debug\net5.0\kurucuFonksiyonlar.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\bin\Debug\net5.0\kurucuFonksiyonlar.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\bin\Debug\net5.0\kurucuFonksiyonlar.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\bin\Debug\net5.0\kurucuFonksiyonlar.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\bin\Debug\net5.0\ref\kurucuFonksiyonlar.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\bin\Debug\net5.0\kurucuFonksiyonlar.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\ref\kurucuFonksiyonlar.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\kurucuFonksiyonlar\obj\Debug\net5.0\kurucuFonksiyonlar.genruntimeconfig.cache
