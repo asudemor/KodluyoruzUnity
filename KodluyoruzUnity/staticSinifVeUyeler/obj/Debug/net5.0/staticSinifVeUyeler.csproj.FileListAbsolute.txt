@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\bin\Debug\net5.0\staticSinifVeUyeler.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\bin\Debug\net5.0\staticSinifVeUyeler.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\bin\Debug\net5.0\staticSinifVeUyeler.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\bin\Debug\net5.0\staticSinifVeUyeler.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\bin\Debug\net5.0\staticSinifVeUyeler.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\bin\Debug\net5.0\ref\staticSinifVeUyeler.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\bin\Debug\net5.0\staticSinifVeUyeler.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\ref\staticSinifVeUyeler.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\staticSinifVeUyeler\obj\Debug\net5.0\staticSinifVeUyeler.genruntimeconfig.cache
