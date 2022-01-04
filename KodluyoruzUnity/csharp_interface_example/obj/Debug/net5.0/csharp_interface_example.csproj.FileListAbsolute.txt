@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\bin\Debug\net5.0\csharp_interface_example.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\bin\Debug\net5.0\csharp_interface_example.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\bin\Debug\net5.0\csharp_interface_example.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\bin\Debug\net5.0\csharp_interface_example.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\bin\Debug\net5.0\csharp_interface_example.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\bin\Debug\net5.0\ref\csharp_interface_example.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\bin\Debug\net5.0\csharp_interface_example.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\ref\csharp_interface_example.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\csharp_interface_example\obj\Debug\net5.0\csharp_interface_example.genruntimeconfig.cache
