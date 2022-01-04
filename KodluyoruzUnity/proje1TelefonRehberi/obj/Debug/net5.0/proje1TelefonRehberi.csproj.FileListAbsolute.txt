@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\bin\Debug\net5.0\proje1TelefonRehberi.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\bin\Debug\net5.0\proje1TelefonRehberi.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\bin\Debug\net5.0\proje1TelefonRehberi.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\bin\Debug\net5.0\proje1TelefonRehberi.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\bin\Debug\net5.0\proje1TelefonRehberi.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\bin\Debug\net5.0\ref\proje1TelefonRehberi.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\bin\Debug\net5.0\proje1TelefonRehberi.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\ref\proje1TelefonRehberi.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\proje1TelefonRehberi\obj\Debug\net5.0\proje1TelefonRehberi.genruntimeconfig.cache
