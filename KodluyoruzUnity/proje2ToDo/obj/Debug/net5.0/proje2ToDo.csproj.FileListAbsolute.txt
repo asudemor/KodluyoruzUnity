@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\bin\Debug\net5.0\proje2ToDo.exe
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\bin\Debug\net5.0\proje2ToDo.deps.json
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\bin\Debug\net5.0\proje2ToDo.runtimeconfig.json
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\bin\Debug\net5.0\proje2ToDo.runtimeconfig.dev.json
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\bin\Debug\net5.0\proje2ToDo.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\bin\Debug\net5.0\ref\proje2ToDo.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\bin\Debug\net5.0\proje2ToDo.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.AssemblyInfo.cs
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\ref\proje2ToDo.dll
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.pdb
+C:\Users\PC\Desktop\KodluyoruzUnity\proje2ToDo\obj\Debug\net5.0\proje2ToDo.genruntimeconfig.cache
